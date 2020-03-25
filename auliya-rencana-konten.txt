@@ -1,6 +1,8 @@
 rencana konten auliya
 
 -java
+  *es6
+  *framework
 -php
 -interview
 -vlog
