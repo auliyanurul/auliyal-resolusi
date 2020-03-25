@@ -3,7 +3,10 @@ rencana konten auliya
 -java
   *es6
   *framework
+    ^vue
 -struktur data
 -php
+ ^larafel
 -interview
 -vlog
+-python
