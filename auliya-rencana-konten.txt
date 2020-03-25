@@ -5,7 +5,9 @@ rencana konten auliya
   *framework
    ^angular
    ^reak
+-struktur data
 -php
  ^laravel
 -interview
 -vlog
+-python
