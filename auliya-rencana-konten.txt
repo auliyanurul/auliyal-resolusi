@@ -3,11 +3,11 @@ rencana konten auliya
 -java
   *es6
   *framework
-    ^vue
-    ^reak
+   ^angular
+   ^reak
 -struktur data
 -php
- ^larafel
+ ^laravel
 -interview
 -vlog
 -python
